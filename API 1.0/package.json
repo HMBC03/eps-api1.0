@@ -1,5 +1,5 @@
 {
-  "name": "proyecto",
+  "name": "proyecto-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "tsc && nodemon src/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Hector Manuel Beltran Cifuentes",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
